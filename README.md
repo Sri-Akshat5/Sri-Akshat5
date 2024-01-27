@@ -14,33 +14,40 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
 ![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)
 
 ### Web Technology:
-  ![My Skills](https://skillicons.dev/icons?i=html,css,figma&theme=dark) 
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark) 
   
 ### Tools & IDEs:
-  ![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark) 
+  ![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark)
 ### Mobile App Development: 
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,&theme=dark) 
-- **Version Control:** GitHub
+### Version Control:
+![My Skills](https://skillicons.dev/icons?i=github,git&theme=dark) 
 
 ## Non-Technical Skills 🎨
 
-- **Platforms:** WordPress, Wix
-- **Design Tools:** Photoshop, Illustrator, Canva
-- **UI/UX Tools:** AdobeXD, Figma
-- **Video Editing:** Premiere Pro, After Effects
-- **Audio Editing:** Audacity
+### Platforms: 
+![My Skills](https://skillicons.dev/icons?i=wordpress,tailwind&theme=dark)
+### Design Tools: 
+![My Skills](https://skillicons.dev/icons?i=ps,ai&theme=dark)
+
+### UI/UX Tools:
+![My Skills](https://skillicons.dev/icons?i=xd,figma&theme=dark)
 
 ## Versatility Beyond Coding 🚀
 
-- **Digital Marketing:** Leveraging technology for effective outreach
-- **IoT (Internet of Things):** Bridging the physical and digital worlds
-- **IT Project Management:** Ensuring successful execution of IT projects
-- **Business Applications:** Proficient in the MS Office Suite
-- **Additional Coursework:** DIP (Digital Image Processing), Computer Graphics
+>Digital Marketing: Leveraging technology for effective outreach
+>
+>IoT (Internet of Things): Bridging the physical and digital worlds
+>
+>IT Project Management: Ensuring successful execution of IT projects
+>
+>Business Applications: Proficient in the MS Office Suite
+>
+>Additional Coursework: DIP (Digital Image Processing), Computer Graphics
 
 ## How to Reach Me 📬
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sriakshat5/) I'm always open to collaboration and exploring new opportunities!
+Feel free to connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sriakshat5/). I'm always open to collaboration and exploring new opportunities!
 
 ## Projects and Repositories 🔗
 
