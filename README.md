@@ -5,7 +5,7 @@
 I'm Akshat, a passionate and driven student at Amity University, deeply immersed in the dynamic intersection of technology and education. As a proud C++ Gold Badge holder on HackerRank, I love tackling coding challenges and embracing the art of problem-solving. Beyond the code, I also take on the role of a Class Representative, blending technical expertise with strong leadership qualities.
 
 ## Technical Proficiency 💻
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5)](https://leetcode.com/sri_akshat5/)                     [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sri_akshat5)](<https://auth.geeksforgeeks.org/user/sri_akshat5>)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5?animation=false)](https://leetcode.com/sri_akshat5/)                     [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sri_akshat5)](<https://auth.geeksforgeeks.org/user/sri_akshat5>)
 
  ### Languages: 
  ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark)
