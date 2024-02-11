@@ -26,7 +26,7 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
 ## Non-Technical Skills 🎨
 
 ### Platforms: 
-![My Skills](https://skillicons.dev/icons?i=wordpress,tailwind,wix&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=wordpress,tailwind&theme=dark)
 ### Design Tools: 
 ![My Skills](https://skillicons.dev/icons?i=ps,ai&theme=dark)
 
