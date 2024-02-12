@@ -31,10 +31,10 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
 ![My Skills](https://skillicons.dev/icons?i=ps,ai&theme=dark)
 
 ### UI/UX Tools:
-![My Skills](https://skillicons.dev/icons?i=xd,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=xd,figma,sketch&theme=dark)
 
 ## Versatility Beyond Coding 🚀
->[!NOTE]
+>[!NOTE] 
 >Digital Marketing: Leveraging technology for effective outreach
 >
 >IoT (Internet of Things): Bridging the physical and digital worlds
