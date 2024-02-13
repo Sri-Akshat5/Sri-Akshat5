@@ -31,7 +31,7 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
 ![My Skills](https://skillicons.dev/icons?i=ps,ai&theme=dark)
 
 ### UI/UX Tools:
-![My Skills](https://skillicons.dev/icons?i=xd,figma,sketch&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=xd,figma&theme=dark)
 
 ## Versatility Beyond Coding 🚀
 >[!NOTE] 
