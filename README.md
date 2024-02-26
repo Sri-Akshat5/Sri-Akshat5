@@ -11,7 +11,7 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
  ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark)
 
 ### Database:
-![My Skills](https://skillicons.dev/icons?i=mysql,firebase&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=mysql,firebase,&theme=dark)
 
 ### Web Technology:
   ![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark) 
