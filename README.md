@@ -8,7 +8,7 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5?animation=false)](https://leetcode.com/sri_akshat5/)                     [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sri_akshat5)](<https://auth.geeksforgeeks.org/user/sri_akshat5>)
 
  ### Languages: 
- ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,pytho,c#n&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,pytho,n&theme=dark)
 
 ### Database:
 ![My Skills](https://skillicons.dev/icons?i=mysql,firebase,&theme=dark)
