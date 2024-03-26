@@ -47,7 +47,7 @@ I'm Akshat, a passionate and driven student at Amity University, deeply immersed
 
 ## How to Reach Me 📬
 
-Feel free to connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sriakshat5/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:akshatsrivastava566@gmail.com). I'm always open to collaboration and exploring new opportunities!
+Feel free to connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sriakshat5/) [![My Skills](https://skillicons.dev/icons?i=gmail,)](mailto:akshatsrivastava566@gmail.com). I'm always open to collaboration and exploring new opportunities!
 
 ## Projects and Repositories 🔗
 
