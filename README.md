@@ -2,57 +2,47 @@
 
 ## About Me 🎓
 
-I'm Akshat, a passionate and driven student at Amity University, deeply immersed in the dynamic intersection of technology and education. As a proud C++ Gold Badge holder on HackerRank, I love tackling coding challenges and embracing the art of problem-solving. Beyond the code, I also take on the role of a Class Representative, blending technical expertise with strong leadership qualities.
+I'm Akshat, a final-year Integrated MCA student at Amity University, Noida, with a diverse and hands-on experience across web and mobile app development. My expertise spans full-stack development, front-end design, and UI/UX, backed by successful internships in multiple roles. With a deep understanding of modern technologies, I excel in building efficient, user-centric applications and delivering optimized solutions that meet business goals. As a proud C++ Gold Badge holder on HackerRank, I also enjoy tackling coding challenges and problem-solving.
 
 ## Technical Proficiency 💻
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5?animation=false)](https://leetcode.com/sri_akshat5/)                     [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sri_akshat5)](<https://auth.geeksforgeeks.org/user/sri_akshat5>)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5?animation=false)](https://leetcode.com/sri_akshat5/)                     [![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sri_akshat5)](https://auth.geeksforgeeks.org/user/sri_akshat5)
 
- ### Languages: 
- ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark)
+### Languages: 
+![My Skills](https://skillicons.dev/icons?i=java,cpp,js,ts,html,css&theme=dark)
 
-### Database:
-![My Skills](https://skillicons.dev/icons?i=mysql,firebase,&theme=dark)
+### Frameworks & Libraries: 
+![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,express&theme=dark) 
 
-### Web Technology:
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark) 
-  
-### Tools & IDEs:
-  ![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm&theme=dark)
-### Mobile App Development: 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,&theme=dark) 
-### Version Control:
-![My Skills](https://skillicons.dev/icons?i=github,git&theme=dark) 
+### Tools & Platforms:
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws&theme=dark) 
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark) 
 
-## Non-Technical Skills 🎨
+### DevOps & Testing: 
+![My Skills](https://skillicons.dev/icons?i=gitlab,postman,github&theme=dark)
 
-### Platforms: 
-![My Skills](https://skillicons.dev/icons?i=wordpress,tailwind&theme=dark)
-### Design Tools: 
-![My Skills](https://skillicons.dev/icons?i=ps,ai&theme=dark)
+### Design Tools:
+![My Skills](https://skillicons.dev/icons?i=figma,wordpress&theme=dark) 
 
-### UI/UX Tools:
-![My Skills](https://skillicons.dev/icons?i=xd,figma&theme=dark)
+
 
 ## Versatility Beyond Coding 🚀
->[!NOTE] 
->Digital Marketing: Leveraging technology for effective outreach
+> 💡 **Agile Methodologies**: Mastery of agile processes for collaborative work.
 >
->IoT (Internet of Things): Bridging the physical and digital worlds
+> 🤝 **Team Collaboration**: Fostering synergy in multi-functional teams.
 >
->IT Project Management: Ensuring successful execution of IT projects
+> 🧠 **Analytical & Problem-Solving**: Expert in logical thinking and structured problem-solving.
 >
->Business Applications: Proficient in the MS Office Suite
->
->Additional Coursework: DIP (Digital Image Processing), Computer Graphics
+> 📊 **Project Management**: Ensuring timely execution of IT projects.
+
+## What I Bring 🌟
+With a blend of technical proficiency and creative design skills, I’m driven by a passion for innovation and solving complex problems. I thrive in collaborative environments, contributing to the development of scalable and high-performance solutions. My ability to adapt quickly to new challenges and continuously learn new technologies makes me a valuable asset to any team.
 
 ## How to Reach Me 📬
 
-Feel free to connect with me on [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sriakshat5/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:akshatsrivastava566@gmail.com). I'm always open to collaboration and exploring new opportunities!
+Feel free to connect with me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sriakshat5/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:akshatsrivastava566@gmail.com). I'm always open to collaboration and exploring new opportunities!
 
 ## Projects and Repositories 🔗
 
 Explore my GitHub repositories to discover a diverse collection of coding projects, web development endeavors, mobile app creations, and more. Your feedback and contributions are highly valued!
 
 Thank you for visiting my GitHub profile. Let's code, create, and innovate together! 🚀
-
-
