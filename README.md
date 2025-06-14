@@ -2,27 +2,45 @@
 
 ## About Me 🎓
 
-I'm Akshat, a final-year Integrated MCA student at Amity University, Noida, with a diverse and hands-on experience across web and mobile app development. My expertise spans full-stack development, front-end design, and UI/UX, backed by successful internships in multiple roles. With a deep understanding of modern technologies, I excel in building efficient, user-centric applications and delivering optimized solutions that meet business goals. As a proud C++ Gold Badge holder on HackerRank, I also enjoy tackling coding challenges and problem-solving.
+I’m Akshat, a passionate and results-driven Software Developer, with an Integrated MCA degree from Amity University, Noida. Currently, I am working as a Trainee Software Developer at U2opia Mobile, where I am building scalable web applications and expanding my expertise across full-stack development, front-end design, and UI/UX. With a strong foundation in modern technologies, I specialize in developing efficient, user-centric, and high-performance solutions aligned with business goals. Backed by multiple successful internships, I bring practical experience in collaborative environments.
 
 ## Technical Proficiency 💻
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5?animation=false)](https://leetcode.com/sri_akshat5/)                     [![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sri_akshat5)](https://auth.geeksforgeeks.org/user/sri_akshat5)
+### LeetCode:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sri_akshat5?animation=false)](https://leetcode.com/sri_akshat5/)                     
+
+### GeeksForGeek:
+[![Coding Profile](https://coding-cards.vercel.app/api/gfg-stats?action=profileCard&theme=dark&userName=sri_akshat5/)](https://auth.geeksforgeeks.org/user/sri_akshat5)
+
+### GitHub:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Akshat5&hide_progress=true)
 
 ### Languages: 
-![My Skills](https://skillicons.dev/icons?i=java,cpp,js,ts,html,css&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql&theme=dark)
 
-### Frameworks & Libraries: 
-![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs,express&theme=dark) 
 
-### Tools & Platforms:
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws&theme=dark) 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark) 
 
-### DevOps & Testing: 
-![My Skills](https://skillicons.dev/icons?i=gitlab,postman,github&theme=dark)
+### Frontend: 
+![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind&theme=dark)
+
+
+
+### Backend:
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,django&theme=dark)
+
+
+
+### Database:
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,aws&theme=dark)
+
+
+
+### DevOps & Testing:
+![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab,postman&theme=dark)
+
+
 
 ### Design Tools:
-![My Skills](https://skillicons.dev/icons?i=figma,wordpress&theme=dark) 
-
+![My Skills](https://skillicons.dev/icons?i=figma,wordpress&theme=dark)
 
 
 ## Versatility Beyond Coding 🚀
@@ -42,6 +60,7 @@ With a blend of technical proficiency and creative design skills, I’m driven b
 Feel free to connect with me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/sriakshat5/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:akshatsrivastava566@gmail.com). I'm always open to collaboration and exploring new opportunities!
 
 ## Projects and Repositories 🔗
+
 
 Explore my GitHub repositories to discover a diverse collection of coding projects, web development endeavors, mobile app creations, and more. Your feedback and contributions are highly valued!
 
