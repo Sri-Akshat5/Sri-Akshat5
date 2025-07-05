@@ -15,7 +15,7 @@ I’m Akshat, a passionate and results-driven Software Developer, with an Integr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Akshat5&hide_progress=true)
 
 ### Languages: 
-![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,mysql&theme=dark)
 
 
 
@@ -25,7 +25,7 @@ I’m Akshat, a passionate and results-driven Software Developer, with an Integr
 
 
 ### Backend:
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,django&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark)
 
 
 
